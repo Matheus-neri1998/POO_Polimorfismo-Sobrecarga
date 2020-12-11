@@ -4,8 +4,8 @@ namespace POO_Polimorfismo_Sobrecarga.Classes
 {
     public class Funcionario
     {
-        // sintaxe completa
-        // atalho : propfull
+        // Sintaxe completa
+        // Atalho : propfull
         private int myVar;
         public int MyProperty
         {
@@ -13,31 +13,34 @@ namespace POO_Polimorfismo_Sobrecarga.Classes
             set {myVar = value;}
         }
 
-        // alternativa com sinatxe reduzida:
-        // atalho prop
+        // Alternativa com sinatxe reduzida:
+        // Atalho prop
 
         public string Name {get; set;}
         
-        public string[] lista = {"Paulo", "Tsuka", "Thiago", "Fernanda" };
+        // Atividade à partir daqui
+        public string[] lista = {"Matheus", "Paulo", "Thiago", "Carlos" };  
         public void Mostrar(){
             foreach (var item in lista)
             {
-                Console.WriteLine(item);
+                Console.WriteLine(item); // lista os nomes
             }
         } // fim de mostrar - lista
 
         public void Mostrar(int indice)
         {
-            Console.WriteLine( lista [indice] );
-        } // fim de mostrar - indice 
+            Console.WriteLine("Busca por índice : "+ lista [indice] );
+        } // fim de mostrar - índice 
 
         public void Mostrar(string busca)
         {
             foreach (var item in lista)
             {
-                if (item == busca)
-                {}
+                if (item == busca){
+                    Console.WriteLine("Resultado da busca : "+ item );
+                }
             }
-        } // fim de mostrar busca
-    } // fim da classe funcionario
+        } // fim de mostrar - busca
+
+    } // fim da classe Funcionario
 }

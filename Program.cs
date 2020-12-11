@@ -7,12 +7,12 @@ namespace POO_Polimorfismo_Sobrecarga
     {
         static void Main(string[] args)
         {
-           Funcionario fun = new Funcionario();
-           fun.Mostrar();
-           fun.Mostrar("Matheus");
-           fun.Mostrar(2);
+           Funcionario funcionario = new Funcionario();
+           funcionario.Mostrar(); // lista os nomes
+           funcionario.Mostrar("Matheus");
+           funcionario.Mostrar(2); // mostra a busca e o resultado por índice
 
-           Console.Beep(900, 5000);
+           Console.Beep(900, 5000); // reproduz um barulho
         }
     }
 }
