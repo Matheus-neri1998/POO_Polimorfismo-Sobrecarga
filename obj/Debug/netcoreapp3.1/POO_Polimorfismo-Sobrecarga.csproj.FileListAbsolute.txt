@@ -1,0 +1,13 @@
+C:\Users\dev\Desktop\POO_Polimorfismo-Sobrecarga\bin\Debug\netcoreapp3.1\POO_Polimorfismo-Sobrecarga.exe
+C:\Users\dev\Desktop\POO_Polimorfismo-Sobrecarga\bin\Debug\netcoreapp3.1\POO_Polimorfismo-Sobrecarga.deps.json
+C:\Users\dev\Desktop\POO_Polimorfismo-Sobrecarga\bin\Debug\netcoreapp3.1\POO_Polimorfismo-Sobrecarga.runtimeconfig.json
+C:\Users\dev\Desktop\POO_Polimorfismo-Sobrecarga\bin\Debug\netcoreapp3.1\POO_Polimorfismo-Sobrecarga.runtimeconfig.dev.json
+C:\Users\dev\Desktop\POO_Polimorfismo-Sobrecarga\bin\Debug\netcoreapp3.1\POO_Polimorfismo-Sobrecarga.dll
+C:\Users\dev\Desktop\POO_Polimorfismo-Sobrecarga\bin\Debug\netcoreapp3.1\POO_Polimorfismo-Sobrecarga.pdb
+C:\Users\dev\Desktop\POO_Polimorfismo-Sobrecarga\obj\Debug\netcoreapp3.1\POO_Polimorfismo-Sobrecarga.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\POO_Polimorfismo-Sobrecarga\obj\Debug\netcoreapp3.1\POO_Polimorfismo-Sobrecarga.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\POO_Polimorfismo-Sobrecarga\obj\Debug\netcoreapp3.1\POO_Polimorfismo-Sobrecarga.AssemblyInfo.cs
+C:\Users\dev\Desktop\POO_Polimorfismo-Sobrecarga\obj\Debug\netcoreapp3.1\POO_Polimorfismo-Sobrecarga.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\POO_Polimorfismo-Sobrecarga\obj\Debug\netcoreapp3.1\POO_Polimorfismo-Sobrecarga.dll
+C:\Users\dev\Desktop\POO_Polimorfismo-Sobrecarga\obj\Debug\netcoreapp3.1\POO_Polimorfismo-Sobrecarga.pdb
+C:\Users\dev\Desktop\POO_Polimorfismo-Sobrecarga\obj\Debug\netcoreapp3.1\POO_Polimorfismo-Sobrecarga.genruntimeconfig.cache
